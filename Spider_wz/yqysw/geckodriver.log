@@ -1,0 +1,1369 @@
+1530684444399	geckodriver	INFO	geckodriver 0.20.1
+1530684444414	geckodriver	INFO	Listening on 127.0.0.1:20233
+1530684446439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.huNwZWsfL788"
+1530684450185	Marionette	INFO	Listening on port 20242
+1530684450619	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685236479	geckodriver	INFO	geckodriver 0.20.1
+1530685236494	geckodriver	INFO	Listening on 127.0.0.1:21635
+1530685238509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.o6xHJGhmhV0t"
+1530685242066	Marionette	INFO	Listening on port 21643
+1530685242287	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2202
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te	WARN	TLS certificate errors will be ignored for this session
+[Parent 17468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685390930	geckodriver	INFO	geckodriver 0.20.1
+1530685390944	geckodriver	INFO	Listening on 127.0.0.1:21972
+1530685392960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.FxlRZGpFJ0Sn"
+1530685397677	Marionette	INFO	Listening on port 21981
+1530685398222	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685433305	geckodriver	INFO	geckodriver 0.20.1
+1530685433321	geckodriver	INFO	Listening on 127.0.0.1:22100
+1530685435356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ddOFy992QgMp"
+1530685438968	Marionette	INFO	Listening on port 22108
+1530685439030	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685462979	geckodriver	INFO	geckodriver 0.20.1
+1530685462999	geckodriver	INFO	Listening on 127.0.0.1:22171
+1530685465011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ygs4mqiseltF"
+1530685468669	Marionette	INFO	Listening on port 22179
+1530685469350	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7648, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685479600	geckodriver	INFO	geckodriver 0.20.1
+1530685479616	geckodriver	INFO	Listening on 127.0.0.1:22251
+1530685481624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ZoJD0E0omGtU"
+1530685484925	Marionette	INFO	Listening on port 22260
+1530685485363	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Parent 3644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685495207	geckodriver	INFO	geckodriver 0.20.1
+1530685495222	geckodriver	INFO	Listening on 127.0.0.1:22330
+1530685513579	geckodriver	INFO	geckodriver 0.20.1
+1530685513593	geckodriver	INFO	Listening on 127.0.0.1:22356
+1530685515619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.Nd8VNKEZWAG5"
+1530685518910	Marionette	INFO	Listening on port 22366
+1530685519376	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4812, Chrome_ChildThread] WARNING: pi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685578535	geckodriver	INFO	geckodriver 0.20.1
+1530685578551	geckodriver	INFO	Listening on 127.0.0.1:22481
+1530685580549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.Fz1ZSVOBZIaw"
+1530685583982	Marionette	INFO	Listening on port 22489
+1530685584237	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685601183	geckodriver	INFO	geckodriver 0.20.1
+1530685601223	geckodriver	INFO	Listening on 127.0.0.1:22538
+1530685603198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.GRULZ6aeAXVx"
+1530685606591	Marionette	INFO	Listening on port 22548
+1530685606885	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21012[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685616867	geckodriver	INFO	geckodriver 0.20.1
+1530685616888	geckodriver	INFO	Listening on 127.0.0.1:22615
+1530685618888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.xUX3m4gHZJtw"
+1530685622353	Marionette	INFO	Listening on port 22625
+1530685622608	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13804, Chro[Child 23560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685633112	geckodriver	INFO	geckodriver 0.20.1
+1530685633128	geckodriver	INFO	Listening on 127.0.0.1:22700
+1530685635136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.11LdFxAZ9LsE"
+1530685638645	Marionette	INFO	Listening on port 22711
+1530685638853	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[Child 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7708, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685649233	geckodriver	INFO	geckodriver 0.20.1
+1530685649250	geckodriver	INFO	Listening on 127.0.0.1:22781
+1530685651267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.2iOA0ywRn9bF"
+1530685654623	Marionette	INFO	Listening on port 22789
+1530685654947	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685665306	geckodriver	INFO	geckodriver 0.20.1
+1530685665321	geckodriver	INFO	Listening on 127.0.0.1:22861
+1530685667329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.STzUora7zeJL"
+1530685670753	Marionette	INFO	Listening on port 22875
+1530685671018	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23976, Chrome_ChildThread] WARNING: pip[Child 14468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14468, Chrome_ChildThread] WAR[Parent 16408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685680832	geckodriver	INFO	geckodriver 0.20.1
+1530685680849	geckodriver	INFO	Listening on 127.0.0.1:23013
+1530685682855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.Flg1QiBPEsQZ"
+1530685686069	Marionette	INFO	Listening on port 23021
+1530685686514	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25400, Chrome_ChildThread] WARNING: pipe error: 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685696944	geckodriver	INFO	geckodriver 0.20.1
+1530685696959	geckodriver	INFO	Listening on 127.0.0.1:23095
+1530685698968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.DW6c2AbMajvI"
+1530685702555	Marionette	INFO	Listening on port 23105
+1530685702798	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685713338	geckodriver	INFO	geckodriver 0.20.1
+1530685713353	geckodriver	INFO	Listening on 127.0.0.1:23197
+1530685715358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.zWeHqOc1TYBG"
+1530685719178	Marionette	INFO	Listening on port 23205
+1530685719595	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685730421	geckodriver	INFO	geckodriver 0.20.1
+1530685730437	geckodriver	INFO	Listening on 127.0.0.1:23277
+1530685732440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.WruIhcVVfcwb"
+1530685736514	Marionette	INFO	Listening on port 23285
+1530685736872	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685747739	geckodriver	INFO	geckodriver 0.20.1
+1530685747751	geckodriver	INFO	Listening on 127.0.0.1:23364
+1530685749762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.TPM0e4IgijTz"
+1530685753605	Marionette	INFO	Listening on port 23378
+1530685754030	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25376, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685765092	geckodriver	INFO	geckodriver 0.20.1
+1530685765111	geckodriver	INFO	Listening on 127.0.0.1:23576
+1530685767139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.pBfZUnvocKFf"
+1530685771650	Marionette	INFO	Listening on port 23630
+1530685772731	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685782934	geckodriver	INFO	geckodriver 0.20.1
+1530685782952	geckodriver	INFO	Listening on 127.0.0.1:23731
+1530685784960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.roDM6S5Iklw1"
+1530685788714	Marionette	INFO	Listening on port 23739
+1530685789225	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10[Parent 24708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685799400	geckodriver	INFO	geckodriver 0.20.1
+1530685799417	geckodriver	INFO	Listening on 127.0.0.1:23814
+1530685801424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.tA5sfvlzt7MP"
+1530685804867	Marionette	INFO	Listening on port 23822
+1530685805145	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24324, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685814960	geckodriver	INFO	geckodriver 0.20.1
+1530685814977	geckodriver	INFO	Listening on 127.0.0.1:23893
+1530685816989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.DPc8OMoYZV32"
+1530685820297	Marionette	INFO	Listening on port 23901
+1530685820755	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685830210	geckodriver	INFO	geckodriver 0.20.1
+1530685830229	geckodriver	INFO	Listening on 127.0.0.1:23972
+1530685832236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.j7lPQSriqKIW"
+1530685835527	Marionette	INFO	Listening on port 23982
+1530685835963	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685846080	geckodriver	INFO	geckodriver 0.20.1
+1530685846096	geckodriver	INFO	Listening on 127.0.0.1:24049
+1530685848100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.9AUFx5xnFUbo"
+1530685851392	Marionette	INFO	Listening on port 24059
+1530685851825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+[Child 2788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Child 10072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685861727	geckodriver	INFO	geckodriver 0.20.1
+1530685861743	geckodriver	INFO	Listening on 127.0.0.1:24129
+1530685863755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.5bBSDf3nPrL7"
+1530685867111	Marionette	INFO	Listening on port 24137
+1530685867426	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685877376	geckodriver	INFO	geckodriver 0.20.1
+1530685877391	geckodriver	INFO	Listening on 127.0.0.1:24208
+1530685879411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.vuHydSmVU5vs"
+1530685882673	Marionette	INFO	Listening on port 24216
+1530685883133	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2[Child 24568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685893859	geckodriver	INFO	geckodriver 0.20.1
+1530685893877	geckodriver	INFO	Listening on 127.0.0.1:24292
+1530685895883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.nV40PFaAqBJJ"
+1530685899450	Marionette	INFO	Listening on port 24300
+1530685899624	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685910483	geckodriver	INFO	geckodriver 0.20.1
+1530685910500	geckodriver	INFO	Listening on 127.0.0.1:24373
+1530685912509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.27k665Fbmh8z"
+1530685915721	Marionette	INFO	Listening on port 24383
+1530685916177	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Parent 8460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530685925593	geckodriver	INFO	geckodriver 0.20.1
+1530685925605	geckodriver	INFO	Listening on 127.0.0.1:24451
+1530685927622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.1mCMaeSPV7B3"
+1530685930884	Marionette	INFO	Listening on port 24461
+1530685931347	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildThread] WARNING: pi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686234929	geckodriver	INFO	geckodriver 0.20.1
+1530686234944	geckodriver	INFO	Listening on 127.0.0.1:25248
+1530686236959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.MVSMcpPh3uTM"
+1530686240931	Marionette	INFO	Listening on port 25258
+1530686241170	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2[Child 10016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686254236	geckodriver	INFO	geckodriver 0.20.1
+1530686254257	geckodriver	INFO	Listening on 127.0.0.1:25421
+1530686256268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.KKs16b7wP7or"
+1530686260914	Marionette	INFO	Listening on port 25431
+1530686261664	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686276617	geckodriver	INFO	geckodriver 0.20.1
+1530686276642	geckodriver	INFO	Listening on 127.0.0.1:25647
+1530686278666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.sueoPL9GuFmw"
+1530686282489	Marionette	INFO	Listening on port 25658
+1530686282787	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1644, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686295325	geckodriver	INFO	geckodriver 0.20.1
+1530686295341	geckodriver	INFO	Listening on 127.0.0.1:25817
+1530686297351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.k6p9FbmbL8rQ"
+1530686300792	Marionette	INFO	Listening on port 25828
+1530686301025	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5032, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686313164	geckodriver	INFO	geckodriver 0.20.1
+1530686313180	geckodriver	INFO	Listening on 127.0.0.1:25988
+1530686315190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.inylLN2EtGqO"
+1530686318946	Marionette	INFO	Listening on port 25996
+1530686319408	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686331793	geckodriver	INFO	geckodriver 0.20.1
+1530686331808	geckodriver	INFO	Listening on 127.0.0.1:26160
+1530686333819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.GyX4lqHYWI1Y"
+1530686337254	Marionette	INFO	Listening on port 26168
+1530686337531	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18552, Chrome_[Child 19240, Chro[Parent 11768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18664, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686349766	geckodriver	INFO	geckodriver 0.20.1
+1530686349784	geckodriver	INFO	Listening on 127.0.0.1:26328
+1530686351780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.QYsAXldRTrKm"
+1530686355200	Marionette	INFO	Listening on port 26337
+1530686355463	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686368035	geckodriver	INFO	geckodriver 0.20.1
+1530686368051	geckodriver	INFO	Listening on 127.0.0.1:26500
+1530686370053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ArvmtRgeRSKf"
+1530686373427	Marionette	INFO	Listening on port 26508
+1530686373856	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686385751	geckodriver	INFO	geckodriver 0.20.1
+1530686385763	geckodriver	INFO	Listening on 127.0.0.1:26665
+1530686387774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.clHLzbRfUTsC"
+1530686391889	Marionette	INFO	Listening on port 26675
+1530686391961	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1428, Chro[Parent 25568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21876, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686404423	geckodriver	INFO	geckodriver 0.20.1
+1530686404440	geckodriver	INFO	Listening on 127.0.0.1:26834
+1530686406440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.VZmjb1WYII7e"
+1530686409982	Marionette	INFO	Listening on port 26843
+1530686410202	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 19200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 21528, Chrome_ChildThre[Parent 19200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686422752	geckodriver	INFO	geckodriver 0.20.1
+1530686422766	geckodriver	INFO	Listening on 127.0.0.1:27007
+1530686424779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.c8fO0k9QvDTH"
+1530686428212	Marionette	INFO	Listening on port 27020
+1530686428466	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686440568	geckodriver	INFO	geckodriver 0.20.1
+1530686440581	geckodriver	INFO	Listening on 127.0.0.1:27176
+1530686442601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ekbwTb60aKvP"
+1530686446026	Marionette	INFO	Listening on port 27187
+1530686446299	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4808, Chrom[Parent 10176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Ch[Parent 10176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9452*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686458775	geckodriver	INFO	geckodriver 0.20.1
+1530686458790	geckodriver	INFO	Listening on 127.0.0.1:27349
+1530686460799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.FAYYtJIPraVL"
+1530686464259	Marionette	INFO	Listening on port 27360
+1530686464508	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 19164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686476683	geckodriver	INFO	geckodriver 0.20.1
+1530686476696	geckodriver	INFO	Listening on 127.0.0.1:27523
+1530686478698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.bCfllFh4ho2X"
+1530686482116	Marionette	INFO	Listening on port 27533
+1530686482417	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12704, Ch[Parent 25208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686495481	geckodriver	INFO	geckodriver 0.20.1
+1530686495496	geckodriver	INFO	Listening on 127.0.0.1:27692
+1530686497507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.iGXmp5bdCDUL"
+1530686500931	Marionette	INFO	Listening on port 27702
+1530686501191	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686513546	geckodriver	INFO	geckodriver 0.20.1
+1530686513560	geckodriver	INFO	Listening on 127.0.0.1:27860
+1530686515574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.HwjsHrpiFyME"
+1530686519019	Marionette	INFO	Listening on port 27870
+1530686519252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24988, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686531733	geckodriver	INFO	geckodriver 0.20.1
+1530686531748	geckodriver	INFO	Listening on 127.0.0.1:28027
+1530686533749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.wYgzole3RNAF"
+1530686537198	Marionette	INFO	Listening on port 28037
+1530686537440	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5780, Chrome_ChildT[Parent 19468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21760, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686549701	geckodriver	INFO	geckodriver 0.20.1
+1530686549719	geckodriver	INFO	Listening on 127.0.0.1:28197
+1530686551720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.cJL57l3NBOCN"
+1530686555145	Marionette	INFO	Listening on port 28206
+1530686555393	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 8572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18792, Chr[Child 18040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686568704	geckodriver	INFO	geckodriver 0.20.1
+1530686568719	geckodriver	INFO	Listening on 127.0.0.1:28369
+1530686570728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.I8WbRy5Wm7la"
+1530686574219	Marionette	INFO	Listening on port 28379
+1530686574442	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686589097	geckodriver	INFO	geckodriver 0.20.1
+1530686589115	geckodriver	INFO	Listening on 127.0.0.1:28551
+1530686591119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.BOnXvt6sUKKP"
+1530686594956	Marionette	INFO	Listening on port 28560
+1530686595279	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686608836	geckodriver	INFO	geckodriver 0.20.1
+1530686608852	geckodriver	INFO	Listening on 127.0.0.1:28736
+1530686610858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.xBGonPtSCayM"
+1530686614323	Marionette	INFO	Listening on port 28745
+1530686614558	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23396, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 20432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686630206	geckodriver	INFO	geckodriver 0.20.1
+1530686630222	geckodriver	INFO	Listening on 127.0.0.1:28921
+1530686632218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.5mL3RuWFStzs"
+1530686635704	Marionette	INFO	Listening on port 28929
+1530686635937	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23376, Chrome_ChildT[Parent 24628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686649634	geckodriver	INFO	geckodriver 0.20.1
+1530686649647	geckodriver	INFO	Listening on 127.0.0.1:29096
+1530686651662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.i4P4LDNruKQr"
+1530686655116	Marionette	INFO	Listening on port 29107
+1530686655390	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43[Child 8*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686668281	geckodriver	INFO	geckodriver 0.20.1
+1530686668299	geckodriver	INFO	Listening on 127.0.0.1:29273
+1530686670304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.OdqDMIXnIaze"
+1530686673780	Marionette	INFO	Listening on port 29283
+1530686674012	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686688088	geckodriver	INFO	geckodriver 0.20.1
+1530686688104	geckodriver	INFO	Listening on 127.0.0.1:29458
+1530686690105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.IHDbvU7lBUKW"
+1530686693621	Marionette	INFO	Listening on port 29470
+1530686693884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1128, Chrome_ChildThread] WARNING: pipe err[Parent 1440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25320*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686708643	geckodriver	INFO	geckodriver 0.20.1
+1530686708662	geckodriver	INFO	Listening on 127.0.0.1:29640
+1530686710667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.d3yMMSrqOJUG"
+1530686714087	Marionette	INFO	Listening on port 29650
+1530686714340	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11140, Chrome_ChildThread] WARNING: pipe error: 10[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[Parent 21880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21924, Chrome_ChildThre*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686727468	geckodriver	INFO	geckodriver 0.20.1
+1530686727483	geckodriver	INFO	Listening on 127.0.0.1:29815
+1530686729493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.UMtOmiJyptHP"
+1530686732965	Marionette	INFO	Listening on port 29828
+1530686733238	Marionette	WARN	TLS certificate errors will be ignored for this session
+[[Parent 24776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686745936	geckodriver	INFO	geckodriver 0.20.1
+1530686745953	geckodriver	INFO	Listening on 127.0.0.1:29993
+1530686747959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.V15wU7mHG8D9"
+1530686751502	Marionette	INFO	Listening on port 30006
+1530686751724	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch[Parent 13356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686765344	geckodriver	INFO	geckodriver 0.20.1
+1530686765357	geckodriver	INFO	Listening on 127.0.0.1:30176
+1530686767366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.b7nOFfMPWYKy"
+1530686770869	Marionette	INFO	Listening on port 30185
+1530686771103	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21388, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686789725	geckodriver	INFO	geckodriver 0.20.1
+1530686789743	geckodriver	INFO	Listening on 127.0.0.1:30358
+1530686791743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.oV5B22d0FJBV"
+1530686795249	Marionette	INFO	Listening on port 30368
+1530686795449	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686810858	geckodriver	INFO	geckodriver 0.20.1
+1530686810872	geckodriver	INFO	Listening on 127.0.0.1:30536
+1530686812887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.VqgfYT7gpFQ1"
+1530686816290	Marionette	INFO	Listening on port 30546
+1530686816541	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14000, Chrome_Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686830501	geckodriver	INFO	geckodriver 0.20.1
+1530686830520	geckodriver	INFO	Listening on 127.0.0.1:30713
+1530686832528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.Dw237exOQ9TB"
+1530686835973	Marionette	INFO	Listening on port 30724
+1530686836181	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17088, Chrome_ChildTh[Parent 9588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5780,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686850199	geckodriver	INFO	geckodriver 0.20.1
+1530686850214	geckodriver	INFO	Listening on 127.0.0.1:30892
+1530686852227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.T97ivvSkA5KV"
+1530686855722	Marionette	INFO	Listening on port 30902
+1530686855936	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+[Child 11080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 220*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686869892	geckodriver	INFO	geckodriver 0.20.1
+1530686869909	geckodriver	INFO	Listening on 127.0.0.1:31066
+1530686871918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.9Cohfq920ddT"
+1530686875306	Marionette	INFO	Listening on port 31076
+1530686875715	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686888298	geckodriver	INFO	geckodriver 0.20.1
+1530686888314	geckodriver	INFO	Listening on 127.0.0.1:31238
+1530686890321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.MvMYKQbqSrio"
+1530686893690	Marionette	INFO	Listening on port 31248
+1530686894001	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686907209	geckodriver	INFO	geckodriver 0.20.1
+1530686907227	geckodriver	INFO	Listening on 127.0.0.1:31412
+1530686909230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.NIZ3H5izIzxt"
+1530686913784	Marionette	INFO	Listening on port 31420
+1530686914506	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686931821	geckodriver	INFO	geckodriver 0.20.1
+1530686931840	geckodriver	INFO	Listening on 127.0.0.1:31595
+1530686933870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.RDc8awgzPEFi"
+1530686937737	Marionette	INFO	Listening on port 31606
+1530686938034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+[Child 16312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 20864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686952771	geckodriver	INFO	geckodriver 0.20.1
+1530686952789	geckodriver	INFO	Listening on 127.0.0.1:31830
+1530686954790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.pivBk9X3bQVb"
+1530686958171	Marionette	INFO	Listening on port 31840
+1530686958457	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686972029	geckodriver	INFO	geckodriver 0.20.1
+1530686972042	geckodriver	INFO	Listening on 127.0.0.1:32003
+1530686974049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ciQVseVPNb8z"
+1530686977464	Marionette	INFO	Listening on port 32012
+1530686977711	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 22572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530686992492	geckodriver	INFO	geckodriver 0.20.1
+1530686992509	geckodriver	INFO	Listening on 127.0.0.1:32183
+1530686994515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.OXwuOhATR70t"
+1530686998410	Marionette	INFO	Listening on port 32193
+1530686998725	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687011054	geckodriver	INFO	geckodriver 0.20.1
+1530687011072	geckodriver	INFO	Listening on 127.0.0.1:32370
+1530687013088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.QLpifSWPS2Id"
+1530687016936	Marionette	INFO	Listening on port 32385
+1530687017256	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687030823	geckodriver	INFO	geckodriver 0.20.1
+1530687030840	geckodriver	INFO	Listening on 127.0.0.1:32566
+1530687032845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.pMAOQDPsU95w"
+1530687036568	Marionette	INFO	Listening on port 32577
+1530687037027	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9112, Chrome_ChildThread] WARNING: pipe error: 109: file[Child 21216, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687050756	geckodriver	INFO	geckodriver 0.20.1
+1530687050774	geckodriver	INFO	Listening on 127.0.0.1:32771
+1530687052773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.5r1M5nLQA5cY"
+1530687056730	Marionette	INFO	Listening on port 32783
+1530687056974	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8716, Chrome_ChildThread] WARNING: pipe error: 109: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687070724	geckodriver	INFO	geckodriver 0.20.1
+1530687070739	geckodriver	INFO	Listening on 127.0.0.1:32970
+1530687072734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.RpE55IrACWpi"
+1530687076211	Marionette	INFO	Listening on port 32982
+1530687076472	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14824, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 17244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687089314	geckodriver	INFO	geckodriver 0.20.1
+1530687089329	geckodriver	INFO	Listening on 127.0.0.1:33157
+1530687091355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.jquxwLGSmiXX"
+1530687095923	Marionette	INFO	Listening on port 33170
+1530687096631	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687109146	geckodriver	INFO	geckodriver 0.20.1
+1530687109164	geckodriver	INFO	Listening on 127.0.0.1:33350
+1530687111169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.9qFnTE3evror"
+1530687114763	Marionette	INFO	Listening on port 33364
+1530687114991	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687129087	geckodriver	INFO	geckodriver 0.20.1
+1530687129109	geckodriver	INFO	Listening on 127.0.0.1:33532
+1530687131110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.No4WCx7g09DW"
+1530687135373	Marionette	INFO	Listening on port 33547
+1530687136396	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18132, Chr[ome_ChildThread] ChiWARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ld 9652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22400, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687150290	geckodriver	INFO	geckodriver 0.20.1
+1530687150308	geckodriver	INFO	Listening on 127.0.0.1:33722
+1530687152315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ik0RhjcWxDKE"
+1530687155886	Marionette	INFO	Listening on port 33733
+1530687156011	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17088,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687168919	geckodriver	INFO	geckodriver 0.20.1
+1530687168935	geckodriver	INFO	Listening on 127.0.0.1:33898
+1530687170948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.gH7umD5YRGbi"
+1530687174276	Marionette	INFO	Listening on port 33908
+1530687174721	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17060, Chrome_ChildThread] WARNING: pipe error: 109: f[Parent 20336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3252, Chrome_ChildThr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687187734	geckodriver	INFO	geckodriver 0.20.1
+1530687187752	geckodriver	INFO	Listening on 127.0.0.1:34075
+1530687189761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.BAed1irMV7gy"
+1530687193543	Marionette	INFO	Listening on port 34087
+1530687193979	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23228, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 23228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687206218	geckodriver	INFO	geckodriver 0.20.1
+1530687206234	geckodriver	INFO	Listening on 127.0.0.1:34249
+1530687208250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.RruOQGkRgS8v"
+1530687211675	Marionette	INFO	Listening on port 34261
+1530687211932	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687224061	geckodriver	INFO	geckodriver 0.20.1
+1530687224078	geckodriver	INFO	Listening on 127.0.0.1:34420
+1530687226078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.KRUjzgrFNn20"
+1530687229459	Marionette	INFO	Listening on port 34429
+1530687229878	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24372, Chrome_[Child 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687242228	geckodriver	INFO	geckodriver 0.20.1
+1530687242245	geckodriver	INFO	Listening on 127.0.0.1:34593
+1530687244263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.V7Bq2DHLEhgo"
+1530687247710	Marionette	INFO	Listening on port 34601
+1530687247948	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20068, Chrome_ChildTh*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687260025	geckodriver	INFO	geckodriver 0.20.1
+1530687260041	geckodriver	INFO	Listening on 127.0.0.1:34761
+1530687262059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.CTGQS6fyNNZ3"
+1530687265419	Marionette	INFO	Listening on port 34769
+1530687265738	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1252, Chrome_ChildThread] WARNING: pipe error: 10*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687278219	geckodriver	INFO	geckodriver 0.20.1
+1530687278235	geckodriver	INFO	Listening on 127.0.0.1:34927
+1530687280243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.0uefwbt2tSXX"
+1530687283577	Marionette	INFO	Listening on port 34939
+1530687284024	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 206*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687296313	geckodriver	INFO	geckodriver 0.20.1
+1530687296333	geckodriver	INFO	Listening on 127.0.0.1:35099
+1530687298343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.dwUriTPu0ZNP"
+1530687301794	Marionette	INFO	Listening on port 35109
+1530687302044	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687315211	geckodriver	INFO	geckodriver 0.20.1
+1530687315244	geckodriver	INFO	Listening on 127.0.0.1:35301
+1530687317221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.tiRXumVroAmI"
+1530687320604	Marionette	INFO	Listening on port 35318
+1530687321009	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24692, Chrome_Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687333058	geckodriver	INFO	geckodriver 0.20.1
+1530687333077	geckodriver	INFO	Listening on 127.0.0.1:35477
+1530687335076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.11rm8SMSeSAr"
+1530687338372	Marionette	INFO	Listening on port 35487
+1530687338799	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687350616	geckodriver	INFO	geckodriver 0.20.1
+1530687350633	geckodriver	INFO	Listening on 127.0.0.1:35650
+1530687352644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.L4YV4Qc4vOR6"
+1530687355967	Marionette	INFO	Listening on port 35660
+1530687356396	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[Child 16020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687369811	geckodriver	INFO	geckodriver 0.20.1
+1530687369831	geckodriver	INFO	Listening on 127.0.0.1:35821
+1530687371836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.CuwAGAhNNYOD"
+1530687375335	Marionette	INFO	Listening on port 35833
+1530687375496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687387991	geckodriver	INFO	geckodriver 0.20.1
+1530687388007	geckodriver	INFO	Listening on 127.0.0.1:35995
+1530687390040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.pYIPfgam1X8k"
+1530687394767	Marionette	INFO	Listening on port 36009
+1530687395495	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19896, Chrome_ChildThread] WARNING: pip*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687408932	geckodriver	INFO	geckodriver 0.20.1
+1530687408947	geckodriver	INFO	Listening on 127.0.0.1:36194
+1530687410967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.4LERr7SFtY1Y"
+1530687414891	Marionette	INFO	Listening on port 36205
+1530687415153	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 152*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 19180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687428382	geckodriver	INFO	geckodriver 0.20.1
+1530687428395	geckodriver	INFO	Listening on 127.0.0.1:36381
+1530687430412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.Qtj6bDKWB4IG"
+1530687434154	Marionette	INFO	Listening on port 36391
+1530687434679	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687445124	geckodriver	INFO	geckodriver 0.20.1
+1530687445138	geckodriver	INFO	Listening on 127.0.0.1:36558
+1530687447156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.652c6i9VxZXE"
+1530687451054	Marionette	INFO	Listening on port 36571
+1530687451328	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23588, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687464516	geckodriver	INFO	geckodriver 0.20.1
+1530687464534	geckodriver	INFO	Listening on 127.0.0.1:36753
+1530687466551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.13owQghBe1Qp"
+1530687470320	Marionette	INFO	Listening on port 36763
+1530687470816	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687483536	geckodriver	INFO	geckodriver 0.20.1
+1530687483554	geckodriver	INFO	Listening on 127.0.0.1:36931
+1530687485568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.UH1oaKA20G2T"
+1530687489567	Marionette	INFO	Listening on port 36943
+1530687489884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23024, Chrome_ChildThread] WA*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687502792	geckodriver	INFO	geckodriver 0.20.1
+1530687502807	geckodriver	INFO	Listening on 127.0.0.1:37119
+1530687504816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.qWbJ1f77xwJi"
+1530687508197	Marionette	INFO	Listening on port 37129
+1530687508515	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687520951	geckodriver	INFO	geckodriver 0.20.1
+1530687520975	geckodriver	INFO	Listening on 127.0.0.1:37299
+1530687522963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.xkBdFQdXJpWU"
+1530687526553	Marionette	INFO	Listening on port 37313
+1530687526659	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687539777	geckodriver	INFO	geckodriver 0.20.1
+1530687539796	geckodriver	INFO	Listening on 127.0.0.1:37498
+1530687541799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.ueCF5jsabhTt"
+1530687545525	Marionette	INFO	Listening on port 37509
+1530687546065	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687559462	geckodriver	INFO	geckodriver 0.20.1
+1530687559477	geckodriver	INFO	Listening on 127.0.0.1:37687
+1530687561483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.JPVWpSCvxlpQ"
+1530687565166	Marionette	INFO	Listening on port 37701
+1530687565658	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 22804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687577744	geckodriver	INFO	geckodriver 0.20.1
+1530687577758	geckodriver	INFO	Listening on 127.0.0.1:37877
+1530687579770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.VGk2E0R4TU2I"
+1530687583234	Marionette	INFO	Listening on port 37890
+1530687583471	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16548, Chrome_ChildThread] WARNING: pipe error: 109: fi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1252, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687596101	geckodriver	INFO	geckodriver 0.20.1
+1530687596131	geckodriver	INFO	Listening on 127.0.0.1:38046
+1530687598120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.9JaGstOxohMJ"
+1530687601766	Marionette	INFO	Listening on port 38058
+1530687602275	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8620, Chrome_ChildThread] WARNING: pipe*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687614241	geckodriver	INFO	geckodriver 0.20.1
+1530687614255	geckodriver	INFO	Listening on 127.0.0.1:38218
+1530687616264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.mGeC1zp8vVye"
+1530687620297	Marionette	INFO	Listening on port 38230
+1530687620449	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 25416, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530687633572	geckodriver	INFO	geckodriver 0.20.1
+1530687633588	geckodriver	INFO	Listening on 127.0.0.1:38392
+1530687635593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wz\\AppData\\Local\\Temp\\rust_mozprofile.A9lp4MT007EJ"
+1530687639238	Marionette	INFO	Listening on port 38402
+1530687639749	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2640, Chrome_ChildThread] WARNING: pipe error[Parent 6592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1552540169281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.AlmoOOB2a5Wc"
+1552540170559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540170559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540173665	Marionette	INFO	Listening on port 64492
+1552540173750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540183540	Marionette	INFO	Stopped listening on port 64492
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552540185332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.AApcpd7bPE56"
+1552540186723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540186723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540189147	Marionette	INFO	Listening on port 64643
+1552540189203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540198450	Marionette	INFO	Stopped listening on port 64643
+1552540200048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.SkdA2V5Cd4AW"
+1552540201067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540201067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540203719	Marionette	INFO	Listening on port 64804
+1552540203815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540213855	Marionette	INFO	Stopped listening on port 64804
+1552540215438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.5XKvUWWcOjfW"
+1552540216141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540216142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540219121	Marionette	INFO	Listening on port 64960
+1552540219202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540228985	Marionette	INFO	Stopped listening on port 64960
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552540230695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.fDWtd4oYWHlS"
+1552540231557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540231557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540235307	Marionette	INFO	Listening on port 65102
+1552540235387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540474251	Marionette	INFO	Stopped listening on port 65102
+1552540485676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.NqToZASDKMQj"
+1552540486827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540486827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540489740	Marionette	INFO	Listening on port 49885
+1552540489833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540518455	Marionette	INFO	Stopped listening on port 49885
+1552540523894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.34R7p2jwrkH0"
+1552540524643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540524643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540527744	Marionette	INFO	Listening on port 50209
+1552540527850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540555383	Marionette	INFO	Stopped listening on port 50209
+1552540556952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.fFN4qrnnZqmL"
+1552540557809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540557810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540560255	Marionette	INFO	Listening on port 50503
+1552540560310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540587324	Marionette	INFO	Stopped listening on port 50503
+1552540588898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.jD3cUSZKLxzZ"
+1552540589600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540589600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540591989	Marionette	INFO	Listening on port 50786
+1552540592029	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552540618341	Marionette	INFO	Stopped listening on port 50786
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552540619991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.tnjSYkzyEhz4"
+1552540620724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540620724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540623020	Marionette	INFO	Listening on port 51070
+1552540623130	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552540648790	Marionette	INFO	Stopped listening on port 51070
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1552540670479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.gXieWH7iA1Nz"
+1552540671267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540671267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540673789	Marionette	INFO	Listening on port 51439
+1552540673803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540699548	Marionette	INFO	Stopped listening on port 51439
+1552540710038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.PEyHHEsYKmpm"
+1552540710747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540710747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540713473	Marionette	INFO	Listening on port 51751
+1552540713580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540729484	Marionette	INFO	Stopped listening on port 51751
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1552540747213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/g0/2l00s62s07g49y6p_55m17b00000gn/T/rust_mozprofile.5rs3bAfcejNn"
+1552540747960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552540747960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552540750405	Marionette	INFO	Listening on port 52021
+1552540750459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552540754856	Marionette	INFO	Stopped listening on port 52021

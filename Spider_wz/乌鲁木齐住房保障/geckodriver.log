@@ -1,0 +1,81 @@
+1564447709617	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p9/hbs271d13793b90t31nztc4w0000gn/T/rust_mozprofile.PtAqwqcYC5XK"
+1564447710592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564447710592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564447710592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564447710592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564447713875	Marionette	INFO	Listening on port 64826
+1564447713888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://220.171.31.186:86/js/jquery-1.4.2.js, line 3671: unreachable code after return statement
+JavaScript warning: http://220.171.31.186:86/js/jquery-1.4.2.js, line 3671: unreachable code after return statement
+1564447724102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:543:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+doSubmit@http://220.171.31.186:86/search/presell.jsp:22:3
+onclick@http://220.171.31.186:86/search/presell.jsp:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564443745562%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1564447836952	Marionette	INFO	Stopped listening on port 64826
+1564447841601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p9/hbs271d13793b90t31nztc4w0000gn/T/rust_mozprofile.1CUzHS6YA4IW"
+1564447842553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564447842553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564447842553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564447842553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564447845803	Marionette	INFO	Listening on port 65429
+1564447845862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://220.171.31.186:86/js/jquery-1.4.2.js, line 3671: unreachable code after return statement
+JavaScript warning: http://220.171.31.186:86/js/jquery-1.4.2.js, line 3671: unreachable code after return statement
+1564447856719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:543:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+doSubmit@http://220.171.31.186:86/search/presell.jsp:22:3
+onclick@http://220.171.31.186:86/search/presell.jsp:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564443745562%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1564448046766	Marionette	INFO	Stopped listening on port 65429
+1564448054163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p9/hbs271d13793b90t31nztc4w0000gn/T/rust_mozprofile.ZZ5DqgXO73t2"
+1564448055061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564448055062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564448055062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564448055062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564448058127	Marionette	INFO	Listening on port 49967
+1564448058231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://220.171.31.186:86/js/jquery-1.4.2.js, line 3671: unreachable code after return statement
+JavaScript warning: http://220.171.31.186:86/js/jquery-1.4.2.js, line 3671: unreachable code after return statement
+1564448071567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:543:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+doSubmit@http://220.171.31.186:86/search/presell.jsp:22:3
+onclick@http://220.171.31.186:86/search/presell.jsp:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564443745562%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1564490135126	Marionette	INFO	Stopped listening on port 49967

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery.1.11.1.js"></script>
+    <script>
+        $(function () {
+            $.ajax({
+              url:"http://192.168.1.209:8080/get_user",
+                data:{fpdm:'213001410013',fphm:'00916983',dwmc:'任丘市第二建筑安装工程有限公司'},
+                 type: 'post',
+//              dataType: 'json',
+//              timeout: 1000,
+              success: function (data, status) {
+                console.log(data)
+              },
+              fail: function (err, status) {
+                console.log(err)
+              }
+            })
+        })
+    </script>
+</head>
+<body>
+
+</body>
+</html>
