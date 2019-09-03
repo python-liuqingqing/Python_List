@@ -3,12 +3,12 @@ import time
 import datetime
 import mysql.connector
 import re
-import redis
 from bs4 import BeautifulSoup
 from selenium import webdriver
-import landchina.ss_city
 import requests
 import time
+import pytesseract
+from PIL import Image
 
 url_tid = "http://www.superfastip.com/api/ip?tid=55d9bb0c8648afa7841e81a4cb4f77da&type=0"
 res = requests.get(url_tid)
@@ -52,7 +52,7 @@ def page_zh(i,l,key,zd,handles):
     # 获取页面html
     try:
         html = driver.find_element_by_id('TAB_contentTable').get_attribute('innerHTML')
-        soup = BeautifulSoup(html, 'lxml')  # 对html进行解析
+        soup = BeautifulSoup(html, 'html.parser')  # 对html进行解析
         href_ = soup.select('.queryCellBordy a')
         for line in href_:
             print("http://www.landchina.com/" + line['href'])
@@ -76,23 +76,46 @@ def page_zh(i,l,key,zd,handles):
         else:
             print("本次采集结束!!!")
             driver.close()
-            driver.switch_to_window(handles[0])
+            driver.switch_to.window(handles[0])
     except:
         print(i,l,key,zd)
         driver.close()
-        driver.switch_to_window(handles[0])
+        driver.switch_to.window(handles[0])
         llq_main(key, zd)
 # 关闭浏览器（selenium）
 # driver.quit()
 #
 def llq_main(key,zd):
+
+    driver.maximize_window()
+    driver.save_screenshot('s1.png')  # 截取当前网页，该网页有我们需要的验证码
+    imgelement = driver.find_element_by_class_name('verifyimg')
+    location = imgelement.location  # 获取验证码x,y轴坐标
+    size = imgelement.size  # 获取验证码的长宽
+    rangle = (int(location['x']), int(location['y']), int(location['x'] + size['width']),
+              int(location['y'] + size['height']))  # 写成我们需要截取的位置坐标
+    print(int(location['x']), int(location['y']), int(location['x'] + size['width']),
+          int(location['y'] + size['height']))
+    h = Image.open('s1.png')  # 打开截图
+    result = h.crop(rangle)  # 使用Image的crop函数，从截图中再次截取我们需要的区域
+    result.save('1.png')
+    # # 2
+    image = Image.open('1.png')
+    result = pytesseract.image_to_string(image)
+    print(result)
+
+    driver.find_element_by_id('intext').send_keys(result)
+    time.sleep(3)
+    driver.find_element_by_xpath('/html/body/div/div[2]/table/tbody/tr[2]/td/input').click()
+    time.sleep(3)
+
     print(start,end)
     js = 'window.open("http://www.landchina.com/default.aspx?tabid=263&ComName=default");'
     driver.execute_script(js)
     handles = driver.window_handles  # 获取当前窗口句柄集合（列表类型）
     for handle in handles:  # 切换窗口（切换到搜狗）
         if handle != driver.current_window_handle:
-            driver.switch_to_window(handle)
+            driver.switch_to.window(handle)
     time.sleep(2)
     driver.find_element_by_id('TAB_QueryConditionItem270').click()
     # 对时间条件进行赋值
@@ -111,17 +134,16 @@ def llq_main(key,zd):
 
 
 if __name__ == '__main__':
-    # start = '2009-11-12'
-    # end = '2018-09-18'
-    # begin_date = datetime.datetime.strptime(start, "%Y-%m-%d")
-    # end_date = datetime.datetime.strptime(end, "%Y-%m-%d")
-    # while begin_date <= end_date:
-    #     date_str = begin_date.strftime("%Y-%m-%d")
-    #     date_list.append(date_str)
-    #     begin_date += datetime.timedelta(days=1)
-    # for l in range(len(date_list)):
-    #     # print(date_list[l])
-    #     llq_main(date_list[l],date_list[l])
+    start = '2009-11-12'
+    end = '2018-09-18'
+    begin_date = datetime.datetime.strptime(start, "%Y-%m-%d")
+    end_date = datetime.datetime.strptime(end, "%Y-%m-%d")
+    while begin_date <= end_date:
+        date_str = begin_date.strftime("%Y-%m-%d")
+        date_list.append(date_str)
+        begin_date += datetime.timedelta(days=1)
+    for l in range(len(date_list)):
+        llq_main(date_list[l],date_list[l])
 
 
 
@@ -130,4 +152,6 @@ if __name__ == '__main__':
     #     zd = city_[key]
     #     print(key,zd)
     #     llq_main(key,zd)
-    llq_main('370900', '泰安市本级')
+
+
+    # llq_main('370900', '泰安市本级')
